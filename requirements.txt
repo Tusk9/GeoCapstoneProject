@@ -1,0 +1,6 @@
+pandas
+numpy
+tensorflow==2.14.0
+gdown
+streamlit
+boto3
